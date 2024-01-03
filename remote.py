@@ -8,7 +8,7 @@ import board
 import busio
 import time
 import struct
-from JankBotLibV0_3 import LORA,Joystick,joysick_to_PWM
+from JankBotLib import LORA,Joystick,joysick_to_PWM
 
 
 # Initalize the SPI bus on the RP2040
