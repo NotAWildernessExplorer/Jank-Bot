@@ -9,7 +9,7 @@ import board
 import busio
 import time
 import struct
-from JankBotLibV0_2 import Wheel,LORA
+from JankBotLib import Wheel,LORA
 
 ## Begin the jank
 time.sleep(2.0)
